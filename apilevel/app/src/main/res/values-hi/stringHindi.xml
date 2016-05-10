@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">मेरे अनुप्रयोग</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ईमेल</string>
+    <string name="prompt_password">पासवर्ड (optional)</string>
+    <string name="action_sign_in">साइन इन करें या रजिस्टर
+</string>
+    <string name="action_sign_in_short">साइन इन करें</string>
+    <string name="error_invalid_email">इस ई-मेल पता अमान्य है</string>
+    <string name="error_invalid_password">इस पासवर्ड बहुत छोटा है</string>
+    <string name="error_incorrect_password">यह पासवर्ड ग़लत है</string>
+    <string name="change_language">भाषा परिवर्तित करें</string>
+    <string name="mrugly">श्री बदसूरत</string>
+    <string name="rotation">रोटेशन</string>
+    <string name="error_field_required">यह फ़ील्ड आवश्यक है</string>
+    <string name="permission_rationale">"संपर्क अनुमतियाँ प्रदान करने के लिए पूर्ण ई-मेल करने की जरूरत है।"
+    </string>
+</resources>
